@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sergey-Voytenkov
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Web Dev
